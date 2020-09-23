@@ -12,4 +12,4 @@
 
 </div>
 
-This resipitory contains solved assignments.
+This repository contains solved assignments.
