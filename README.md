@@ -1,6 +1,6 @@
 <div align="center">
 
-![ODS stickers](https://github.com/Xrenya/mlcourse.ai/edit/master/img/ods_stickers.jpg)
+![ODS stickers](https://github.com/Xrenya/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
 **[mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course**
 
